@@ -50,9 +50,3 @@ We focus on isolated, non-magnetic DA-type white dwarfs within 50 parsecs of the
 ## 🎯 Outcome
 
 A filtered sample of high-mass, nearby DA white dwarfs suitable for further astrophysical analysis — such as cooling models, binary population studies, or dark matter interaction investigations.
-
----
-
-## 🧠 Notes
-
-This notebook demonstrates effective scientific data wrangling with tools transferable to a wide range of data science and research applications.
